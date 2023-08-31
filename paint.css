@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+header{
+    background-color: red;
+}
+header .main-heading{
+color: white;
+padding: 25px;
+text-align: center;
+}
+
+.main-heading h1{
+    border: 4px white solid;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.img-banner{
+    width: 100%;
+    border-bottom: 4px red solid;
+}
+
+.links-container{
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10%;
+}
+
+.link:hover{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}
+
+main h2{
+    color: red;
+    text-align: center;
+    margin: 30px;
+    font-size: 45px;
+}
+
+main p{
+    font-size: 30px;
+    text-align: justify;
+    margin: 0 45px 30px 45px;
+    line-height: 50px;
+}  
+
+.form-container {
+    background-color: lightgrey;
+    padding: 75px;
+    text-align: center;
+}
+
+.form-container h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.form-container input{
+    border: 4px red solid;
+    border-radius: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: red;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+main{
+    text-align: center;
+    margin: 50px 40px 5px 40px;
+}
+
+main img {
+    width: 40%;
+    margin: 5px;
+    border-bottom: red solid 6px;
+}
